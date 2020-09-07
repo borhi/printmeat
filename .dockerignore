@@ -1,0 +1,8 @@
+.git
+.DS_Store
+.idea/
+.vscode/
+README.md
+vendor/
+c.out
+redis-data/
